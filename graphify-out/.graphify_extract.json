@@ -1,0 +1,2965 @@
+{
+  "nodes": [
+    {
+      "id": "tailwind_config_ts",
+      "label": "tailwind.config.ts",
+      "file_type": "code",
+      "source_file": "tailwind.config.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "eslint_config_js",
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "eslint.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "vite_config_ts",
+      "label": "vite.config.ts",
+      "file_type": "code",
+      "source_file": "vite.config.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "postcss_config_js",
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "postcss.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_structured_data_js",
+      "label": "structured-data.js",
+      "file_type": "code",
+      "source_file": "public/structured-data.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "public_structured_data_getstructureddata",
+      "label": "getStructuredData()",
+      "file_type": "code",
+      "source_file": "public/structured-data.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_app_tsx",
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "src/App.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_main_tsx",
+      "label": "main.tsx",
+      "file_type": "code",
+      "source_file": "src/main.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_vite_env_d_ts",
+      "label": "vite-env.d.ts",
+      "file_type": "code",
+      "source_file": "src/vite-env.d.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_projects_tsx",
+      "label": "Projects.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Projects.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_hero_tsx",
+      "label": "Hero.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_hero_hero",
+      "label": "Hero()",
+      "file_type": "code",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L5"
+    },
+    {
+      "id": "src_components_metatags_tsx",
+      "label": "MetaTags.tsx",
+      "file_type": "code",
+      "source_file": "src/components/MetaTags.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_metatags_metatags",
+      "label": "MetaTags()",
+      "file_type": "code",
+      "source_file": "src/components/MetaTags.tsx",
+      "source_location": "L10"
+    },
+    {
+      "id": "src_components_footer_tsx",
+      "label": "Footer.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Footer.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_navigation_tsx",
+      "label": "Navigation.tsx",
+      "file_type": "code",
+      "source_file": "src/components/Navigation.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_navigation_scrolltosection",
+      "label": "scrollToSection()",
+      "file_type": "code",
+      "source_file": "src/components/Navigation.tsx",
+      "source_location": "L8"
+    },
+    {
+      "id": "src_components_about_tsx",
+      "label": "About.tsx",
+      "file_type": "code",
+      "source_file": "src/components/About.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "components_about_about",
+      "label": "About()",
+      "file_type": "code",
+      "source_file": "src/components/About.tsx",
+      "source_location": "L5"
+    },
+    {
+      "id": "src_components_ui_aspect_ratio_tsx",
+      "label": "aspect-ratio.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/aspect-ratio.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_alert_dialog_tsx",
+      "label": "alert-dialog.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/alert-dialog.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_pagination_tsx",
+      "label": "pagination.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_pagination_pagination",
+      "label": "Pagination()",
+      "file_type": "code",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L7"
+    },
+    {
+      "id": "ui_pagination_paginationlink",
+      "label": "PaginationLink()",
+      "file_type": "code",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L42"
+    },
+    {
+      "id": "ui_pagination_paginationprevious",
+      "label": "PaginationPrevious()",
+      "file_type": "code",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L62"
+    },
+    {
+      "id": "ui_pagination_paginationnext",
+      "label": "PaginationNext()",
+      "file_type": "code",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L78"
+    },
+    {
+      "id": "ui_pagination_paginationellipsis",
+      "label": "PaginationEllipsis()",
+      "file_type": "code",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L94"
+    },
+    {
+      "id": "src_components_ui_tabs_tsx",
+      "label": "tabs.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/tabs.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_card_tsx",
+      "label": "card.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/card.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_slider_tsx",
+      "label": "slider.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/slider.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_popover_tsx",
+      "label": "popover.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/popover.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_progress_tsx",
+      "label": "progress.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/progress.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_toaster_tsx",
+      "label": "toaster.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/toaster.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_input_otp_tsx",
+      "label": "input-otp.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/input-otp.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_chart_tsx",
+      "label": "chart.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_chart_usechart",
+      "label": "useChart()",
+      "file_type": "code",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L25"
+    },
+    {
+      "id": "ui_chart_cn",
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L52"
+    },
+    {
+      "id": "src_components_ui_hover_card_tsx",
+      "label": "hover-card.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/hover-card.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_sheet_tsx",
+      "label": "sheet.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/sheet.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_scroll_area_tsx",
+      "label": "scroll-area.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/scroll-area.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_resizable_tsx",
+      "label": "resizable.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/resizable.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_label_tsx",
+      "label": "label.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/label.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_sonner_tsx",
+      "label": "sonner.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/sonner.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_sonner_toaster",
+      "label": "Toaster()",
+      "file_type": "code",
+      "source_file": "src/components/ui/sonner.tsx",
+      "source_location": "L6"
+    },
+    {
+      "id": "src_components_ui_navigation_menu_tsx",
+      "label": "navigation-menu.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/navigation-menu.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_accordion_tsx",
+      "label": "accordion.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/accordion.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_drawer_tsx",
+      "label": "drawer.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/drawer.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_tooltip_tsx",
+      "label": "tooltip.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/tooltip.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_alert_tsx",
+      "label": "alert.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/alert.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_use_toast_ts",
+      "label": "use-toast.ts",
+      "file_type": "code",
+      "source_file": "src/components/ui/use-toast.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_switch_tsx",
+      "label": "switch.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/switch.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_calendar_tsx",
+      "label": "calendar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_calendar_calendar",
+      "label": "Calendar()",
+      "file_type": "code",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L10"
+    },
+    {
+      "id": "src_components_ui_breadcrumb_tsx",
+      "label": "breadcrumb.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/breadcrumb.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_radio_group_tsx",
+      "label": "radio-group.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/radio-group.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_command_tsx",
+      "label": "command.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_toggle_group_tsx",
+      "label": "toggle-group.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/toggle-group.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_avatar_tsx",
+      "label": "avatar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/avatar.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_menubar_tsx",
+      "label": "menubar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/menubar.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_dialog_tsx",
+      "label": "dialog.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/dialog.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_badge_tsx",
+      "label": "badge.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/badge.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_badge_badge",
+      "label": "Badge()",
+      "file_type": "code",
+      "source_file": "src/components/ui/badge.tsx",
+      "source_location": "L30"
+    },
+    {
+      "id": "src_components_ui_sidebar_tsx",
+      "label": "sidebar.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_sidebar_usesidebar",
+      "label": "useSidebar()",
+      "file_type": "code",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L39"
+    },
+    {
+      "id": "ui_sidebar_handlekeydown",
+      "label": "handleKeyDown()",
+      "file_type": "code",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L99"
+    },
+    {
+      "id": "ui_sidebar_cn",
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L141"
+    },
+    {
+      "id": "src_components_ui_table_tsx",
+      "label": "table.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/table.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_separator_tsx",
+      "label": "separator.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/separator.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_button_tsx",
+      "label": "button.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/button.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_toggle_tsx",
+      "label": "toggle.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/toggle.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_toast_tsx",
+      "label": "toast.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/toast.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_checkbox_tsx",
+      "label": "checkbox.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/checkbox.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_collapsible_tsx",
+      "label": "collapsible.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/collapsible.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_dropdown_menu_tsx",
+      "label": "dropdown-menu.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/dropdown-menu.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_select_tsx",
+      "label": "select.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/select.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_textarea_tsx",
+      "label": "textarea.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/textarea.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_input_tsx",
+      "label": "input.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/input.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_skeleton_tsx",
+      "label": "skeleton.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/skeleton.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_skeleton_skeleton",
+      "label": "Skeleton()",
+      "file_type": "code",
+      "source_file": "src/components/ui/skeleton.tsx",
+      "source_location": "L3"
+    },
+    {
+      "id": "src_components_ui_context_menu_tsx",
+      "label": "context-menu.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/context-menu.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_form_tsx",
+      "label": "form.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_components_ui_carousel_tsx",
+      "label": "carousel.tsx",
+      "file_type": "code",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "ui_carousel_usecarousel",
+      "label": "useCarousel()",
+      "file_type": "code",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L33"
+    },
+    {
+      "id": "src_hooks_use_mobile_tsx",
+      "label": "use-mobile.tsx",
+      "file_type": "code",
+      "source_file": "src/hooks/use-mobile.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_use_mobile_useismobile",
+      "label": "useIsMobile()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-mobile.tsx",
+      "source_location": "L5"
+    },
+    {
+      "id": "src_hooks_use_toast_ts",
+      "label": "use-toast.ts",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "hooks_use_toast_genid",
+      "label": "genId()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L27"
+    },
+    {
+      "id": "hooks_use_toast_addtoremovequeue",
+      "label": "addToRemoveQueue()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L58"
+    },
+    {
+      "id": "hooks_use_toast_reducer",
+      "label": "reducer()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L74"
+    },
+    {
+      "id": "hooks_use_toast_dispatch",
+      "label": "dispatch()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L133"
+    },
+    {
+      "id": "hooks_use_toast_toast",
+      "label": "toast()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L142"
+    },
+    {
+      "id": "hooks_use_toast_usetoast",
+      "label": "useToast()",
+      "file_type": "code",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L171"
+    },
+    {
+      "id": "src_lib_utils_ts",
+      "label": "utils.ts",
+      "file_type": "code",
+      "source_file": "src/lib/utils.ts",
+      "source_location": "L1"
+    },
+    {
+      "id": "lib_utils_cn",
+      "label": "cn()",
+      "file_type": "code",
+      "source_file": "src/lib/utils.ts",
+      "source_location": "L4"
+    },
+    {
+      "id": "src_pages_index_tsx",
+      "label": "Index.tsx",
+      "file_type": "code",
+      "source_file": "src/pages/Index.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_pages_notfound_tsx",
+      "label": "NotFound.tsx",
+      "file_type": "code",
+      "source_file": "src/pages/NotFound.tsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "pages_notfound_notfound",
+      "label": "NotFound()",
+      "file_type": "code",
+      "source_file": "src/pages/NotFound.tsx",
+      "source_location": "L4"
+    }
+  ],
+  "edges": [
+    {
+      "source": "tailwind_config_ts",
+      "target": "tailwindcss",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "tailwind.config.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_js",
+      "target": "js",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_js",
+      "target": "globals",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_js",
+      "target": "eslint_plugin_react_hooks",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_js",
+      "target": "eslint_plugin_react_refresh",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "eslint_config_js",
+      "target": "typescript_eslint",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "eslint.config.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "vite_config_ts",
+      "target": "vite",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vite_config_ts",
+      "target": "plugin_react_swc",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vite_config_ts",
+      "target": "path",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "vite.config.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "public_structured_data_js",
+      "target": "public_structured_data_getstructureddata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "public/structured-data.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_toaster",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_sonner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_tooltip",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "react_query",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "react_helmet_async",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_metatags",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_pages_index",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_pages_notfound",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/App.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "src_main_tsx",
+      "target": "client",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_main_tsx",
+      "target": "src_app_tsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_main_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_index_css",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_projects_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_card",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Projects.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_projects_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_badge",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Projects.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_projects_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Projects.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_hero_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_hero_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_hero_tsx",
+      "target": "components_hero_hero",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Hero.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_metatags_tsx",
+      "target": "react_helmet_async",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/MetaTags.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_metatags_tsx",
+      "target": "components_metatags_metatags",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/MetaTags.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_footer_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Footer.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_navigation_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navigation.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_navigation_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navigation.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_navigation_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navigation.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_navigation_tsx",
+      "target": "components_navigation_scrolltosection",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/Navigation.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_about_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/About.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_about_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_card",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/About.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_about_tsx",
+      "target": "components_about_about",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/About.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_aspect_ratio_tsx",
+      "target": "react_aspect_ratio",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/aspect-ratio.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_dialog_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert-dialog.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_dialog_tsx",
+      "target": "react_alert_dialog",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert-dialog.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_dialog_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert-dialog.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_dialog_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert-dialog.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "ui_pagination_pagination",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "ui_pagination_paginationlink",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "ui_pagination_paginationprevious",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "ui_pagination_paginationnext",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_pagination_tsx",
+      "target": "ui_pagination_paginationellipsis",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/pagination.tsx",
+      "source_location": "L94",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_tabs_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/tabs.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_tabs_tsx",
+      "target": "react_tabs",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/tabs.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_tabs_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/tabs.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_card_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/card.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_card_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/card.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_slider_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/slider.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_slider_tsx",
+      "target": "react_slider",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/slider.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_slider_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/slider.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_popover_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/popover.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_popover_tsx",
+      "target": "react_popover",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/popover.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_popover_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/popover.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_progress_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/progress.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_progress_tsx",
+      "target": "react_progress",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/progress.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_progress_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/progress.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toaster_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_hooks_use_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toaster.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toaster_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toaster.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_input_otp_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/input-otp.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_input_otp_tsx",
+      "target": "input_otp",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/input-otp.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_input_otp_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/input-otp.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_input_otp_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/input-otp.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_chart_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_chart_tsx",
+      "target": "recharts",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_chart_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_chart_tsx",
+      "target": "ui_chart_usechart",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_chart_tsx",
+      "target": "ui_chart_cn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/chart.tsx",
+      "source_location": "L52",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_hover_card_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/hover-card.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_hover_card_tsx",
+      "target": "react_hover_card",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/hover-card.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_hover_card_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/hover-card.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sheet_tsx",
+      "target": "react_dialog",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sheet.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sheet_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sheet.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sheet_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sheet.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sheet_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sheet.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sheet_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sheet.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_scroll_area_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/scroll-area.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_scroll_area_tsx",
+      "target": "react_scroll_area",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/scroll-area.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_scroll_area_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/scroll-area.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_resizable_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/resizable.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_resizable_tsx",
+      "target": "react_resizable_panels",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/resizable.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_resizable_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/resizable.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_label_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/label.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_label_tsx",
+      "target": "react_label",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/label.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_label_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/label.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_label_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/label.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sonner_tsx",
+      "target": "next_themes",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sonner.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sonner_tsx",
+      "target": "sonner",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sonner.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sonner_tsx",
+      "target": "ui_sonner_toaster",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sonner.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_navigation_menu_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/navigation-menu.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_navigation_menu_tsx",
+      "target": "react_navigation_menu",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/navigation-menu.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_navigation_menu_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/navigation-menu.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_navigation_menu_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/navigation-menu.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_navigation_menu_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/navigation-menu.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_accordion_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/accordion.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_accordion_tsx",
+      "target": "react_accordion",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/accordion.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_accordion_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/accordion.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_accordion_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/accordion.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_drawer_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/drawer.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_drawer_tsx",
+      "target": "vaul",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/drawer.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_drawer_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/drawer.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_tooltip_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/tooltip.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_tooltip_tsx",
+      "target": "react_tooltip",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/tooltip.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_tooltip_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/tooltip.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_alert_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/alert.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_use_toast_ts",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_hooks_use_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/use-toast.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_switch_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/switch.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_switch_tsx",
+      "target": "react_switch",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/switch.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_switch_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/switch.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_calendar_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_calendar_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_calendar_tsx",
+      "target": "react_day_picker",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_calendar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_calendar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_calendar_tsx",
+      "target": "ui_calendar_calendar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/calendar.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_breadcrumb_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/breadcrumb.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_breadcrumb_tsx",
+      "target": "react_slot",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/breadcrumb.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_breadcrumb_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/breadcrumb.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_breadcrumb_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/breadcrumb.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_radio_group_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/radio-group.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_radio_group_tsx",
+      "target": "react_radio_group",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/radio-group.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_radio_group_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/radio-group.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_radio_group_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/radio-group.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_command_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_command_tsx",
+      "target": "react_dialog",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_command_tsx",
+      "target": "cmdk",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_command_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_command_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_command_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_dialog",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/command.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_group_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle-group.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_group_tsx",
+      "target": "react_toggle_group",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle-group.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_group_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle-group.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_group_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle-group.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_group_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_toggle",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle-group.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_avatar_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/avatar.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_avatar_tsx",
+      "target": "react_avatar",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/avatar.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_avatar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/avatar.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_menubar_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/menubar.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_menubar_tsx",
+      "target": "react_menubar",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/menubar.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_menubar_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/menubar.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_menubar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/menubar.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dialog_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dialog.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dialog_tsx",
+      "target": "react_dialog",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dialog.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dialog_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dialog.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dialog_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dialog.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_badge_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/badge.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_badge_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/badge.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_badge_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/badge.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_badge_tsx",
+      "target": "ui_badge_badge",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/badge.tsx",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "react_slot",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_hooks_use_mobile",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_input",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_separator",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_sheet",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_skeleton",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_tooltip",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "ui_sidebar_usesidebar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "ui_sidebar_handlekeydown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L99",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_sidebar_tsx",
+      "target": "ui_sidebar_cn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/sidebar.tsx",
+      "source_location": "L141",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_table_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/table.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_table_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/table.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_separator_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/separator.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_separator_tsx",
+      "target": "react_separator",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/separator.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_separator_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/separator.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_button_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/button.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_button_tsx",
+      "target": "react_slot",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/button.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_button_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/button.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_button_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/button.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_tsx",
+      "target": "react_toggle",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toggle_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toggle.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toast_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toast.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toast_tsx",
+      "target": "react_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toast.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toast_tsx",
+      "target": "class_variance_authority",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toast.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toast_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toast.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_toast_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/toast.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_checkbox_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/checkbox.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_checkbox_tsx",
+      "target": "react_checkbox",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/checkbox.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_checkbox_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/checkbox.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_checkbox_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/checkbox.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_collapsible_tsx",
+      "target": "react_collapsible",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/collapsible.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dropdown_menu_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dropdown-menu.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dropdown_menu_tsx",
+      "target": "react_dropdown_menu",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dropdown-menu.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dropdown_menu_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dropdown-menu.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_dropdown_menu_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/dropdown-menu.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_select_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/select.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_select_tsx",
+      "target": "react_select",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/select.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_select_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/select.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_select_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/select.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_textarea_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/textarea.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_textarea_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/textarea.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_input_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/input.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_input_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/input.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_skeleton_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/skeleton.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_skeleton_tsx",
+      "target": "ui_skeleton_skeleton",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/skeleton.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_context_menu_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/context-menu.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_context_menu_tsx",
+      "target": "react_context_menu",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/context-menu.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_context_menu_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/context-menu.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_context_menu_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/context-menu.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_form_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_form_tsx",
+      "target": "react_label",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_form_tsx",
+      "target": "react_slot",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_form_tsx",
+      "target": "react_hook_form",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_form_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_form_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_label",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/form.tsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_carousel_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_carousel_tsx",
+      "target": "embla_carousel_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_carousel_tsx",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_carousel_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_lib_utils",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_carousel_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_button",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "src_components_ui_carousel_tsx",
+      "target": "ui_carousel_usecarousel",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/components/ui/carousel.tsx",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_mobile_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-mobile.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_mobile_tsx",
+      "target": "hooks_use_mobile_useismobile",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-mobile.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_ui_toast",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "hooks_use_toast_genid",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "hooks_use_toast_addtoremovequeue",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L58",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "hooks_use_toast_reducer",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L74",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "hooks_use_toast_dispatch",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L133",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "hooks_use_toast_toast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L142",
+      "weight": 1.0
+    },
+    {
+      "source": "src_hooks_use_toast_ts",
+      "target": "hooks_use_toast_usetoast",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L171",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_use_toast_reducer",
+      "target": "hooks_use_toast_addtoremovequeue",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L96",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_use_toast_dispatch",
+      "target": "hooks_use_toast_reducer",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L134",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_use_toast_toast",
+      "target": "hooks_use_toast_genid",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L143",
+      "weight": 1.0
+    },
+    {
+      "source": "hooks_use_toast_toast",
+      "target": "hooks_use_toast_dispatch",
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "src/hooks/use-toast.ts",
+      "source_location": "L152",
+      "weight": 1.0
+    },
+    {
+      "source": "src_lib_utils_ts",
+      "target": "clsx",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/utils.ts",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_lib_utils_ts",
+      "target": "tailwind_merge",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/utils.ts",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_lib_utils_ts",
+      "target": "lib_utils_cn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/lib/utils.ts",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_index_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_hero",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Index.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_index_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_projects",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Index.tsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_index_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_about",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Index.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_index_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_footer",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Index.tsx",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_index_tsx",
+      "target": "users_angshumangupta_desktop_qloudai_app_src_components_navigation",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/Index.tsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_notfound_tsx",
+      "target": "react_router_dom",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/NotFound.tsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_notfound_tsx",
+      "target": "react",
+      "relation": "imports_from",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/NotFound.tsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "src_pages_notfound_tsx",
+      "target": "pages_notfound_notfound",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/pages/NotFound.tsx",
+      "source_location": "L4",
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

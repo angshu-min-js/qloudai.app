@@ -1,0 +1,339 @@
+{
+  "communities": {
+    "0": [
+      "hooks_use_toast_addtoremovequeue",
+      "hooks_use_toast_dispatch",
+      "hooks_use_toast_genid",
+      "hooks_use_toast_reducer",
+      "hooks_use_toast_toast",
+      "hooks_use_toast_usetoast",
+      "src_hooks_use_toast_ts"
+    ],
+    "1": [
+      "src_components_ui_pagination_tsx",
+      "ui_pagination_pagination",
+      "ui_pagination_paginationellipsis",
+      "ui_pagination_paginationlink",
+      "ui_pagination_paginationnext",
+      "ui_pagination_paginationprevious"
+    ],
+    "2": [
+      "src_components_ui_sidebar_tsx",
+      "ui_sidebar_cn",
+      "ui_sidebar_handlekeydown",
+      "ui_sidebar_usesidebar"
+    ],
+    "3": [
+      "src_components_ui_chart_tsx",
+      "ui_chart_cn",
+      "ui_chart_usechart"
+    ],
+    "4": [
+      "src_app_tsx",
+      "src_main_tsx"
+    ],
+    "5": [
+      "src_components_ui_sonner_tsx",
+      "ui_sonner_toaster"
+    ],
+    "6": [
+      "components_hero_hero",
+      "src_components_hero_tsx"
+    ],
+    "7": [
+      "components_about_about",
+      "src_components_about_tsx"
+    ],
+    "8": [
+      "src_components_ui_carousel_tsx",
+      "ui_carousel_usecarousel"
+    ],
+    "9": [
+      "src_components_ui_skeleton_tsx",
+      "ui_skeleton_skeleton"
+    ],
+    "10": [
+      "lib_utils_cn",
+      "src_lib_utils_ts"
+    ],
+    "11": [
+      "public_structured_data_getstructureddata",
+      "public_structured_data_js"
+    ],
+    "12": [
+      "src_components_ui_badge_tsx",
+      "ui_badge_badge"
+    ],
+    "13": [
+      "components_metatags_metatags",
+      "src_components_metatags_tsx"
+    ],
+    "14": [
+      "pages_notfound_notfound",
+      "src_pages_notfound_tsx"
+    ],
+    "15": [
+      "hooks_use_mobile_useismobile",
+      "src_hooks_use_mobile_tsx"
+    ],
+    "16": [
+      "src_components_ui_calendar_tsx",
+      "ui_calendar_calendar"
+    ],
+    "17": [
+      "components_navigation_scrolltosection",
+      "src_components_navigation_tsx"
+    ],
+    "18": [
+      "tailwind_config_ts"
+    ],
+    "19": [
+      "eslint_config_js"
+    ],
+    "20": [
+      "vite_config_ts"
+    ],
+    "21": [
+      "postcss_config_js"
+    ],
+    "22": [
+      "src_vite_env_d_ts"
+    ],
+    "23": [
+      "src_components_projects_tsx"
+    ],
+    "24": [
+      "src_components_footer_tsx"
+    ],
+    "25": [
+      "src_components_ui_aspect_ratio_tsx"
+    ],
+    "26": [
+      "src_components_ui_alert_dialog_tsx"
+    ],
+    "27": [
+      "src_components_ui_tabs_tsx"
+    ],
+    "28": [
+      "src_components_ui_card_tsx"
+    ],
+    "29": [
+      "src_components_ui_slider_tsx"
+    ],
+    "30": [
+      "src_components_ui_popover_tsx"
+    ],
+    "31": [
+      "src_components_ui_progress_tsx"
+    ],
+    "32": [
+      "src_components_ui_toaster_tsx"
+    ],
+    "33": [
+      "src_components_ui_input_otp_tsx"
+    ],
+    "34": [
+      "src_components_ui_hover_card_tsx"
+    ],
+    "35": [
+      "src_components_ui_sheet_tsx"
+    ],
+    "36": [
+      "src_components_ui_scroll_area_tsx"
+    ],
+    "37": [
+      "src_components_ui_resizable_tsx"
+    ],
+    "38": [
+      "src_components_ui_label_tsx"
+    ],
+    "39": [
+      "src_components_ui_navigation_menu_tsx"
+    ],
+    "40": [
+      "src_components_ui_accordion_tsx"
+    ],
+    "41": [
+      "src_components_ui_drawer_tsx"
+    ],
+    "42": [
+      "src_components_ui_tooltip_tsx"
+    ],
+    "43": [
+      "src_components_ui_alert_tsx"
+    ],
+    "44": [
+      "src_components_ui_use_toast_ts"
+    ],
+    "45": [
+      "src_components_ui_switch_tsx"
+    ],
+    "46": [
+      "src_components_ui_breadcrumb_tsx"
+    ],
+    "47": [
+      "src_components_ui_radio_group_tsx"
+    ],
+    "48": [
+      "src_components_ui_command_tsx"
+    ],
+    "49": [
+      "src_components_ui_toggle_group_tsx"
+    ],
+    "50": [
+      "src_components_ui_avatar_tsx"
+    ],
+    "51": [
+      "src_components_ui_menubar_tsx"
+    ],
+    "52": [
+      "src_components_ui_dialog_tsx"
+    ],
+    "53": [
+      "src_components_ui_table_tsx"
+    ],
+    "54": [
+      "src_components_ui_separator_tsx"
+    ],
+    "55": [
+      "src_components_ui_button_tsx"
+    ],
+    "56": [
+      "src_components_ui_toggle_tsx"
+    ],
+    "57": [
+      "src_components_ui_toast_tsx"
+    ],
+    "58": [
+      "src_components_ui_checkbox_tsx"
+    ],
+    "59": [
+      "src_components_ui_collapsible_tsx"
+    ],
+    "60": [
+      "src_components_ui_dropdown_menu_tsx"
+    ],
+    "61": [
+      "src_components_ui_select_tsx"
+    ],
+    "62": [
+      "src_components_ui_textarea_tsx"
+    ],
+    "63": [
+      "src_components_ui_input_tsx"
+    ],
+    "64": [
+      "src_components_ui_context_menu_tsx"
+    ],
+    "65": [
+      "src_components_ui_form_tsx"
+    ],
+    "66": [
+      "src_pages_index_tsx"
+    ]
+  },
+  "cohesion": {
+    "0": 0.48,
+    "1": 0.33,
+    "2": 0.5,
+    "3": 0.67,
+    "4": 1.0,
+    "5": 1.0,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0,
+    "28": 1.0,
+    "29": 1.0,
+    "30": 1.0,
+    "31": 1.0,
+    "32": 1.0,
+    "33": 1.0,
+    "34": 1.0,
+    "35": 1.0,
+    "36": 1.0,
+    "37": 1.0,
+    "38": 1.0,
+    "39": 1.0,
+    "40": 1.0,
+    "41": 1.0,
+    "42": 1.0,
+    "43": 1.0,
+    "44": 1.0,
+    "45": 1.0,
+    "46": 1.0,
+    "47": 1.0,
+    "48": 1.0,
+    "49": 1.0,
+    "50": 1.0,
+    "51": 1.0,
+    "52": 1.0,
+    "53": 1.0,
+    "54": 1.0,
+    "55": 1.0,
+    "56": 1.0,
+    "57": 1.0,
+    "58": 1.0,
+    "59": 1.0,
+    "60": 1.0,
+    "61": 1.0,
+    "62": 1.0,
+    "63": 1.0,
+    "64": 1.0,
+    "65": 1.0,
+    "66": 1.0
+  },
+  "gods": [
+    {
+      "id": "hooks_use_toast_reducer",
+      "label": "reducer()",
+      "degree": 3
+    },
+    {
+      "id": "hooks_use_toast_dispatch",
+      "label": "dispatch()",
+      "degree": 3
+    },
+    {
+      "id": "hooks_use_toast_toast",
+      "label": "toast()",
+      "degree": 3
+    },
+    {
+      "id": "hooks_use_toast_genid",
+      "label": "genId()",
+      "degree": 2
+    },
+    {
+      "id": "hooks_use_toast_addtoremovequeue",
+      "label": "addToRemoveQueue()",
+      "degree": 2
+    }
+  ],
+  "surprises": [],
+  "questions": [
+    {
+      "type": "no_signal",
+      "question": null,
+      "why": "Not enough signal to generate questions. This usually means the corpus has no AMBIGUOUS edges, no bridge nodes, no INFERRED relationships, and all communities are tightly cohesive. Add more files or run with --mode deep to extract richer edges."
+    }
+  ]
+}

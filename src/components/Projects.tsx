@@ -13,12 +13,20 @@ export const Projects = () => {
       url: "https://unautomated.xyz/"
     },
     {
+      title: "Amar Boi (Book Reader)",
+      description: "An accessible reading assistant app for visually impaired Bengali speakers. Converts text to speech using Gemini and ML Kit.",
+      users: "Ongoing 🚀",
+      isNew: true,
+      icon: "📖",
+      url: "https://github.com/Qloud-AI/bookReader"
+    },
+    {
       title: "Product Builders",
       description: "A growing community of builders using AI to prototype, ship, and scale digital products — includes tools, docs, and case studies.",
       users: "Ongoing 🚀",
       isNew: true,
       icon: "🧑‍💻",
-      url: "https://productbuilders.xyz/"
+      url: "https://productbuilders.qloudai.app/"
     },
     {
       title: "German with Nik",
